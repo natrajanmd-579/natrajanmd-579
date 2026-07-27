@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=0:000428,100:004e92&text=Natrajan%20M%20D&fontColor=00E5FF&fontSize=55&animation=blink&desc=AI%20Developer%20%7C%20Open%20Source%20Contributor&descSize=20"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%">
 </p>
 <h1 align="center">Hi 👋, I'm Natrajan M D</h1>
 
