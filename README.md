@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Natrajan%20M%20D&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20,24,30&text=Natrajan%20M%20D&fontSize=60&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=22"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Natrajan M D</h1>
