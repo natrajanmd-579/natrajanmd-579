@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20,24,30&text=Natrajan%20M%20D&fontSize=60&fontColor=ffffff&animation=twinkling&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Natrajan%20M%20D&fontSize=55&color=0:0F2027,50:203A43,100:2C5364&stroke=00E5FF&fontColor=ffffff&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Computer%20Vision%20%7C%20MERN%20Developer&descAlignY=68"/>
 </p>
-
 <h1 align="center">Hi 👋, I'm Natrajan M D</h1>
 
 <h3 align="center">
